@@ -1,4 +1,4 @@
-# Simple Whatsapp Api
+# Abh Wa 
 
 ## Allows integration of WhatsApp with any application through POST requests:
 
@@ -36,8 +36,8 @@ node -v
 ### Clone git
 
 ```bash
-git clone https://github.com/melihpeker20/simple-whatsapp-api
-cd simple-whatsapp-api
+git clone https://github.com/melihpeker20/abh-wa
+cd abh-wa
 npm install --allow-root --unsafe-perm=true
 ```
 
