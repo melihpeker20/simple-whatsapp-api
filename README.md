@@ -5,10 +5,6 @@
 This Api follows the same terms of service as WhatsApp. It is important that you read these terms carefully. You are responsible for the use of the tool and the consequences of misuse. We reinforce that the API is not intended for SPAM practice and that sending unwanted messages violates WhatsApp's terms of service. Violation of these terms may result in your WhatsApp account being blocked and permanently banned.
 
 
-The api is 100% free and opensource, if you are interested in hiring paid support, installation or implementation, [Felipe D. Teodoro](https://api.whatsapp.com/send?phone=5521972745771&text=Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20suporte%20da%20Simple%20Whatsapp%2Api) 
-
-
-This project is based on the [Venom-bot](https://github.com/orkestral/venom) a virtual browser without a graphical interface that opens whatsapp web and executes all commands via code, thus enabling the automation of all functions.
 
 ### Install on UBUNTU/DEBIAN:
 
@@ -40,7 +36,7 @@ node -v
 ### Clone git
 
 ```bash
-git clone https://github.com/felipedamacenoteodoro/simple-whatsapp-api
+git clone https://github.com/melihpeker20/simple-whatsapp-api
 cd simple-whatsapp-api
 npm install --allow-root --unsafe-perm=true
 ```
